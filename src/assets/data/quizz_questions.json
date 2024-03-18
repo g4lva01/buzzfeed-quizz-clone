@@ -1,0 +1,74 @@
+{
+  "title":"Em qual anime você irá viver?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual poder você queria ter?",
+      "options":[
+        {"id": 1, "name":"Ki", "alias":"B"},
+        {"id": 2, "name":"Haki", "alias":"A"},
+        {"id": 3, "name":"Chakara", "alias":"C"},
+        {"id": 4, "name":"Power of Destruction", "alias":"E"},
+        {"id": 5, "name":"Poder espiritual", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que você prefere enfretar?",
+      "options":[
+        {"id": 1, "name":"Shinigamis", "alias":"D"},
+        {"id": 2, "name":"Ninjas", "alias":"C"},
+        {"id": 3, "name":"Piratas ou Marinheiros", "alias":"A"},
+        {"id": 4, "name":"Alienigenas", "alias":"B"},
+        {"id": 5, "name":"Anjos, Anjos Caídos ou Demónios", "alias":"E"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua personagem farvorita?",
+      "options":[
+        {"id": 1, "name":"Rias Gremory", "alias":"E"},
+        {"id": 2, "name":"Hinata Hyuga", "alias":"C"},
+        {"id": 3, "name":"Bulma", "alias":"B"},
+        {"id": 4, "name":"Nami", "alias":"A"},
+        {"id": 5, "name":"Orihime Inoue", "alias":"D"}        
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual arma você prefere?",
+      "options":[
+        {"id": 1, "name":"Boosted Gear", "alias":"E"},
+        {"id": 2, "name":"Estilingue", "alias":"A"},
+        {"id": 3, "name":"Zanpakuto", "alias":"D"},
+        {"id": 4, "name":"Kunai e Shuriken", "alias":"C"},
+        {"id": 5, "name":"Bastão Mágico", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual seu anime farvorito?",
+      "options":[
+        {"id": 1, "name":"One Piece", "alias":"A"},
+        {"id": 2, "name":"Dragon Ball", "alias":"B"},
+        {"id": 3, "name":"Naruto", "alias":"C"},
+        {"id": 4, "name":"Bleach", "alias":"D"},
+        {"id": 5, "name":"High School DxD", "alias":"E"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você viveria no universo de One Piece",
+    "B": "Você viveria no universo de Dragon Ball",
+    "C": "Você viveria no universo de Naruto",
+    "D": "Você viveria no universo de Bleach",
+    "E": "Você viveria no universo de High School DxD"
+  },
+  "image":{
+    "A": "https://cinepop.com.br/wp-content/uploads/2022/12/one-piece.jpg",
+    "B": "https://olhardigital.com.br/wp-content/uploads/2022/07/Dragon-Ball-Z.webp",
+    "C": "https://i.pinimg.com/originals/a1/b4/e8/a1b4e88d224e97321e15135fc126d843.jpg",
+    "D": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Bleach.jpeg",
+    "E": "https://www.otakupt.com/wp-content/uploads/2019/07/Novo-High-School-DxD-Entrevista-ao-produtor.jpg"
+  }
+}
